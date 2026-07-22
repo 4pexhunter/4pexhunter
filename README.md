@@ -3,11 +3,16 @@
 </p>
 
 <h1 align="center">4PEXHUNTER</h1>
+<h3 align="center">Fang's Workshop — Founder and Owner</h3>
 <h3 align="center">Indie Game Dev • Student • Game Designer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Not%20For%20Hire-red?style=for-the-badge" />
+</p>
 
 Hello! My name is **4pexhunter**, I'm a **Solo Indie Game Developer**, a **Game Designer**, and also a **Student**!
 
----
+<hr style="border: none; height: 3px; background-color: #36BCF7; border-radius: 5px;">
 
 ### 📖 ABOUT ME!
 
@@ -25,7 +30,7 @@ Hello! My name is **4pexhunter**, I'm a **Solo Indie Game Developer**, a **Game 
 - 🌱 Currently learning **C#** and **Construct 2**
 - 🚧 Currently working on **Project FUGITIVE** *[FPS, Boomer Shooter]*
 
----
+<hr style="border: none; height: 3px; background-color: #36BCF7; border-radius: 5px;">
 
 ### 🛠️ TECH STACK
 
@@ -41,14 +46,14 @@ Hello! My name is **4pexhunter**, I'm a **Solo Indie Game Developer**, a **Game 
   <img src="https://img.shields.io/badge/Roblox_Luau-000000?style=for-the-badge&logo=roblox&logoColor=white" />
 </p>
 
----
+<hr style="border: none; height: 3px; background-color: #36BCF7; border-radius: 5px;">
 
 ### 🎮 CURRENTLY INSPIRED BY
 
 - **Dennaton Games** — Developers of *Hotline Miami*
 - **Ultra CDG** — Developers of *Washington Prime*
 
----
+<hr style="border: none; height: 3px; background-color: #36BCF7; border-radius: 5px;">
 
 ### 📬 CONTACT ME
 
