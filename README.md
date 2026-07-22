@@ -11,9 +11,13 @@ Hello! My name is **4pexhunter**, I'm a **Solo Indie Game Developer**, a **Game 
 
 ### 📖 ABOUT ME!
 
-<p align="center">
-  <img src="./smktelkom-logo.png" width="200" alt="SMK Telkom Malang Logo" style="background-color:white; padding:10px; border-radius:8px;" />
-</p>
+<table align="center">
+<tr>
+<td bgcolor="white" align="center">
+<img src="./smktelkom-logo.png" width="200" alt="SMK Telkom Malang Logo" />
+</td>
+</tr>
+</table>
 
 - 🎓 Currently studying at **SMK TELKOM MALANG** at **X PG 2**
 - 🎂 I'm **16 years old**
@@ -41,7 +45,7 @@ Hello! My name is **4pexhunter**, I'm a **Solo Indie Game Developer**, a **Game 
 
 ### 🎮 CURRENTLY INSPIRED BY
 
-- **Toge Productions** — Developers of *Hotline Miami*
+- **Dennaton Games** — Developers of *Hotline Miami*
 - **Ultra CDG** — Developers of *Washington Prime*
 
 ---
