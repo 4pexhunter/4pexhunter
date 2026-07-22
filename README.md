@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./fangs-workshop-banner.png" width="100%" alt="Fang's Workshop Banner" />
+</p>
+
 <h1 align="center">4PEXHUNTER</h1>
 <h3 align="center">Indie Game Dev • Student • Game Designer</h3>
 
@@ -8,7 +12,7 @@ Hello! My name is **4pexhunter**, I'm a **Solo Indie Game Developer**, a **Game 
 ### 📖 ABOUT ME!
 
 <p align="center">
-  <img src="https://smktelkom-pwt.sch.id/wp-content/uploads/2019/02/SMK-Telkom-Malang.png" width="200" alt="SMK Telkom Malang Logo" />
+  <img src="./smktelkom-logo.png" width="200" alt="SMK Telkom Malang Logo" />
 </p>
 
 - 🎓 Currently studying at **SMK TELKOM MALANG** at **X PG 2**
