@@ -24,11 +24,11 @@ Hello! My name is **4pexhunter**, I'm a **Solo Indie Game Developer**, a **Game 
 </tr>
 </table>
 
-- 🎓 Currently studying at **SMK TELKOM MALANG** at **X PG 2**
-- 🎂 I'm **16 years old**
-- 🕹️ **5+ years** experience in Game Dev
-- 🌱 Currently learning **C#** and **Construct 2**
-- 🚧 Currently working on **Project FUGITIVE** *[FPS, Boomer Shooter]*
+-  Currently studying at **SMK TELKOM MALANG** at **X PG**
+-  I'm **16 years old**
+-  **5+ years** experience in Game Dev
+-  Currently learning **C#** and **Construct 2**
+-  Currently working on **Project FUGITIVE** *[FPS, Boomer Shooter]*
 
 <hr style="border: none; height: 3px; background-color: #36BCF7; border-radius: 5px;">
 
