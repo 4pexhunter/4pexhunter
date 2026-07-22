@@ -14,7 +14,7 @@ Hello! My name is **4pexhunter**, I'm a **Solo Indie Game Developer**, a **Game 
 
 <hr style="border: none; height: 3px; background-color: #36BCF7; border-radius: 5px;">
 
-### 📖 ABOUT ME!
+###  ABOUT ME!
 
 <table align="center">
 <tr>
@@ -29,10 +29,11 @@ Hello! My name is **4pexhunter**, I'm a **Solo Indie Game Developer**, a **Game 
 -  **5+ years** experience in Game Dev
 -  Currently learning **C#** and **Construct 2**
 -  Currently working on **Project FUGITIVE** *[FPS, Boomer Shooter]*
+-  **Airsoft** Addict
 
 <hr style="border: none; height: 3px; background-color: #36BCF7; border-radius: 5px;">
 
-### 🛠️ TECH STACK
+### TECH STACK
 
 | Engine | Language | Role |
 |---|---|---|
@@ -48,14 +49,14 @@ Hello! My name is **4pexhunter**, I'm a **Solo Indie Game Developer**, a **Game 
 
 <hr style="border: none; height: 3px; background-color: #36BCF7; border-radius: 5px;">
 
-### 🎮 CURRENTLY INSPIRED BY
+### CURRENTLY INSPIRED BY
 
 - **Dennaton Games** — Developers of *Hotline Miami*
 - **Ultra CDG** — Developers of *Washington Prime*
 
 <hr style="border: none; height: 3px; background-color: #36BCF7; border-radius: 5px;">
 
-### 📬 CONTACT ME
+### CONTACT ME
 
 <p align="left">
   <img src="https://img.shields.io/badge/Discord-4pexhunter-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
