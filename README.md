@@ -12,7 +12,7 @@ Hello! My name is **4pexhunter**, I'm a **Solo Indie Game Developer**, a **Game 
 ### 📖 ABOUT ME!
 
 <p align="center">
-  <img src="./smktelkom-logo.png" width="200" alt="SMK Telkom Malang Logo" />
+  <img src="./smktelkom-logo.png" width="200" alt="SMK Telkom Malang Logo" style="background-color:white; padding:10px; border-radius:8px;" />
 </p>
 
 - 🎓 Currently studying at **SMK TELKOM MALANG** at **X PG 2**
@@ -23,10 +23,31 @@ Hello! My name is **4pexhunter**, I'm a **Solo Indie Game Developer**, a **Game 
 
 ---
 
-### 🛠️ EXPERTISE
+### 🛠️ TECH STACK
+
+| Engine | Language | Role |
+|---|---|---|
+| Godot | GDScript | Everything |
+| GameMaker | GML | Everything |
+| Roblox Studio | Luau | Building |
 
 <p align="left">
   <img src="https://img.shields.io/badge/GML-2A2A2A?style=for-the-badge&logo=gamemaker&logoColor=white" />
   <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Roblox_Luau-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+</p>
+
+---
+
+### 🎮 CURRENTLY INSPIRED BY
+
+- **Toge Productions** — Developers of *Hotline Miami*
+- **Ultra CDG** — Developers of *Washington Prime*
+
+---
+
+### 📬 CONTACT ME
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Discord-4pexhunter-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
