@@ -28,7 +28,7 @@ Hello! My name is **4pexhunter**, I'm a **Solo Indie Game Developer**, a **Game 
 -  I'm **16 years old**
 -  **5+ years** experience in Game Dev
 -  Currently learning **C#** and **Construct 2**
--  Currently working on **Project FUGITIVE** *[FPS, Boomer Shooter]*
+-  Currently working on **Bebek Musuh Ayam!** *[Top Down Shooter]*
 -  **Airsoft** Addict
 
 <hr style="border: none; height: 3px; background-color: #36BCF7; border-radius: 5px;">
@@ -37,9 +37,9 @@ Hello! My name is **4pexhunter**, I'm a **Solo Indie Game Developer**, a **Game 
 
 | Engine | Language | Role |
 |---|---|---|
-| Godot | GDScript | Everything |
-| GameMaker | GML | Everything |
-| Roblox Studio | Luau | Building |
+| Godot | GDScript | Junior Programmer |
+| GameMaker | GML | Junior Programmer |
+| Roblox Studio | Luau | Builder,Junior Programmer |
 
 <p align="left">
   <img src="https://img.shields.io/badge/GML-2A2A2A?style=for-the-badge&logo=gamemaker&logoColor=white" />
@@ -53,6 +53,8 @@ Hello! My name is **4pexhunter**, I'm a **Solo Indie Game Developer**, a **Game 
 
 - **Dennaton Games** — Developers of *Hotline Miami*
 - **Ultra CDG** — Developers of *Washington Prime*
+- **Edmund McMillan & Nicalis** — Developer and Publisher of *Binding Of Isaac*
+- **Toge Productions** — Developers of *A space for the Unbound*
 
 <hr style="border: none; height: 3px; background-color: #36BCF7; border-radius: 5px;">
 
