@@ -28,7 +28,7 @@ Hello! My name is **4pexhunter**, I'm a **Solo Indie Game Developer**, a **Game 
 -  I'm **16 years old**
 -  **5+ years** experience in Game Dev
 -  Currently learning **C#** and **Construct 2**
--  Currently working on **Bebek Musuh Ayam!** *[Top Down Shooter]*
+-  Currently working on **Chainsmoker** *[Simulator,FPS,Retro Shooter]*
 -  **Airsoft** Addict
 
 <hr style="border: none; height: 3px; background-color: #36BCF7; border-radius: 5px;">
