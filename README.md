@@ -25,7 +25,7 @@ Hello! My name is **4pexhunter**, I'm a **Solo Indie Game Developer**, a **Game 
 </tr>
 </table>
 
--  Currently studying at **SMK TELKOM MALANG** at **X PG**
+-  Currently studying at **SMK TELKOM MALANG**
 -  I'm **16 years old**
 -  **5+ years** experience in Game Dev
 -  Currently learning **C#** and **Construct 2**
