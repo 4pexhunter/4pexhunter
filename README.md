@@ -1,9 +1,6 @@
 <p align="center">
   <img src="./fangs-workshop-banner.png" width="100%" alt="Fang's Workshop Banner" />
 </p>
-<p align="center">
-  <img src="./4PEXHUNTER.gif" alt="4PEXHUNTER" />
-</p>
 <h1 align="center">4PEXHUNTER</h1>
 <h3 align="center">Fang's Workshop — Founder and Owner</h3>
 <h3 align="center">Indie Game Dev • Student • Game Designer</h3>
