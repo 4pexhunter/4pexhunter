@@ -1,26 +1,37 @@
-# 4pexhunter
+<table>
+<tr>
+<td valign="top" width="42%">
+
+### 4pexhunter
 
 ```text
 $ whoami
-4pexhunter // founder, Fang's Workshop
+4pexhunter // founder
+Fang's Workshop
 
 $ cat profile.txt
-role        solo indie game developer and designer
-location    Malang, Indonesia
-engines     Godot, GameMaker, Roblox Studio
-languages   GDScript, GML, Luau
-learning    C#, Python, Construct 2
-focus       gameplay systems, enemy AI, server-authoritative multiplayer
-status      not for hire
+role       solo indie dev
+           and designer
+location   Malang, Indonesia
+focus      gameplay systems,
+           enemy AI,
+           multiplayer
+learning   C#, Python,
+           Construct 2
+status     not for hire
 ```
 
-<div align="center">
+</td>
+<td valign="top" width="58%">
 
 <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution view" />
 
-</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="42%">
 
-## Stack
+### Stack
 
 | Category | Tools |
 |---|---|
@@ -28,14 +39,19 @@ status      not for hire
 | Languages | GDScript, GML, Luau, C# (learning), Python (next) |
 | Tooling | Git, GitHub, VS Code |
 
-## Projects
+</td>
+<td valign="top" width="58%">
+
+### Projects
 
 | Project | Platform | Focus |
 |---|---|---|
 | Barricaded Suspect | Roblox / Luau | Team deathmatch with a barricading mechanic, R6 avatars |
 | Zombie AI System | Roblox / Luau | Wave-based zombie AI: server-authoritative state machine, pathfinding, combat |
 
-## Metrics
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -43,10 +59,6 @@ status      not for hire
 
 </div>
 
-## Influences
+**Influences:** Dennaton Games, Ultra CDG, Edmund McMillan and Nicalis, Toge Productions.
 
-Dennaton Games, Ultra CDG, Edmund McMillan and Nicalis, Toge Productions.
-
-## Contact
-
-Open to talking game design and tooling. Not currently taking work or hire requests.
+**Contact:** Open to talking game design and tooling. Not currently taking work or hire requests.
