@@ -1,3 +1,4 @@
+# Place at .github/workflows/profile-3d.yml in your profile repo
 name: GitHub-Profile-3D-Contrib
 
 on:
@@ -11,17 +12,40 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
+      - name: Make background transparent
+        run: |
+          python3 - << 'PY'
+          import glob, re
+          for f in glob.glob("profile-3d-contrib/*.svg"):
+              s = open(f, encoding="utf-8").read()
+              m = re.search(r"<svg[^>]*>", s)
+              if not m:
+                  continue
+              head = m.group(0)
+              w = re.search(r'width="([\d.]+)', head)
+              h = re.search(r'height="([\d.]+)', head)
+              if not (w and h):
+                  continue
+              for rect in re.finditer(r"<rect\b[^>]*>", s):
+                  tag = rect.group(0)
+                  if f'width="{w.group(1)}' in tag and f'height="{h.group(1)}' in tag:
+                      s = s.replace(tag, "", 1)
+                      break
+              open(f, "w", encoding="utf-8").write(s)
+          PY
+
       - name: Commit and push
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add -A .
-          git commit -m "Update 3D contribution graphs" || exit 0
+          git commit -m "Update 3D contribution graph" || exit 0
           git push
