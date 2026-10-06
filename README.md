@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="./assets/header.svg" width="100%" alt="4pexhunter - Fang's Workshop" />
-
-</div>
+# 4pexhunter
 
 ```text
 $ whoami
